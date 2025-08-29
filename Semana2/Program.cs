@@ -13,6 +13,7 @@ namespace Semana2
             Console.WriteLine("Hola Mundo");
             Console.WriteLine("Soy Jose");
             Console.WriteLine("Este es el primer repositorio en visual comunity");
+            Console.WriteLine("El NRC de la clase 6414");
         }
     }
 }
